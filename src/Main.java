@@ -18,6 +18,7 @@ public class Main {
             System.out.println(result);
         } catch (Exception e) {
             System.out.println("Введены неверные данные");
+			System.out.println("Invalid data entered");
         }
 
     }
